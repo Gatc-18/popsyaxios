@@ -1,0 +1,25 @@
+{
+  "name": "PopsyClass",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch ./data/data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gatc-18/PopsyClass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gatc-18/PopsyClass/issues"
+  },
+  "homepage": "https://github.com/Gatc-18/PopsyClass#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
